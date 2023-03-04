@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Turret mod</name>
+  <author>frvr_empty</author>
+  <url>
+  </url>
+  <supportedVersions>
+	<li>1.4</li>
+  </supportedVersions>
+  <packageId>About</packageId>
+  <description>DAbout</description>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+  </loadAfter>
+</ModMetaData>

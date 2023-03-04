@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/325KPOzztVNLP0gh1/DIdWvg9NQ9O6ZhhKHu+ctDy8arDOsW43+DX8t9ph7yRxscfV3lf3a/E1WC9hFBPXMww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abein\\source\\repos\\Empty_DarknessStun\\Empty_DarknessStun\\Empty_DarknessStun.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abein\\.nuget\\packages\\krafs.rimworld.ref\\1.4.3641\\krafs.rimworld.ref.1.4.3641.nupkg.sha512"
+  ],
+  "logs": []
+}
