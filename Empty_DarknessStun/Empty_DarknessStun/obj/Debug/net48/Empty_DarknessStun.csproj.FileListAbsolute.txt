@@ -1,0 +1,9 @@
+C:\Users\abein\source\repos\Empty_DarknessStun\Empty_DarknessStun\obj\Debug\net48\Empty_DarknessStun.csproj.AssemblyReference.cache
+C:\Users\abein\source\repos\Empty_DarknessStun\Empty_DarknessStun\obj\Debug\net48\Empty_DarknessStun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abein\source\repos\Empty_DarknessStun\Empty_DarknessStun\obj\Debug\net48\Empty_DarknessStun.AssemblyInfoInputs.cache
+C:\Users\abein\source\repos\Empty_DarknessStun\Empty_DarknessStun\obj\Debug\net48\Empty_DarknessStun.AssemblyInfo.cs
+C:\Users\abein\source\repos\Empty_DarknessStun\Empty_DarknessStun\obj\Debug\net48\Empty_DarknessStun.csproj.CoreCompileInputs.cache
+C:\Users\abein\source\repos\Empty_DarknessStun\Empty_DarknessStun\bin\Debug\net48\Empty_DarknessStun.dll
+C:\Users\abein\source\repos\Empty_DarknessStun\Empty_DarknessStun\bin\Debug\net48\Empty_DarknessStun.pdb
+C:\Users\abein\source\repos\Empty_DarknessStun\Empty_DarknessStun\obj\Debug\net48\Empty_DarknessStun.dll
+C:\Users\abein\source\repos\Empty_DarknessStun\Empty_DarknessStun\obj\Debug\net48\Empty_DarknessStun.pdb
